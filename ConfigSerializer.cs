@@ -6,7 +6,7 @@ using Newtonsoft.Json.Linq;
 
 using Sackrany.Utils.SackranyUtils.CacheRegistry;
 
-namespace Sackrany.ConfigSystem.SackranyConfig
+namespace SackranyConfig
 {
     public static class ConfigSerializer
     {

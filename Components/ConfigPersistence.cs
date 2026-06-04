@@ -1,12 +1,7 @@
 using UnityEngine;
 
-namespace Sackrany.ConfigSystem.SackranyConfig.Components
+namespace SackranyConfig.Components
 {
-    /// <summary>
-    /// Сохраняет все динамические конфиги при выходе/сворачивании приложения.
-    /// Раньше компонент жил на «системной» сцене — теперь сам поднимается на старте
-    /// в DontDestroyOnLoad, поэтому ConfigSystem самодостаточен и не требует сцены.
-    /// </summary>
     public class ConfigPersistence : MonoBehaviour
     {
         [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.AfterSceneLoad)]

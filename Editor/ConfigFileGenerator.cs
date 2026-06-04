@@ -4,14 +4,14 @@ using System.Reflection;
 
 using Newtonsoft.Json;
 
-using Sackrany.ConfigSystem.SackranyConfig;
+using SackranyConfig;
 using Sackrany.Utils.SackranyUtils.CacheRegistry;
 
 using UnityEngine;
 
-using static Sackrany.ConfigSystem.SackranyConfig.ConfigRegistry;
+using static SackranyConfig.ConfigRegistry;
 
-namespace Sackrany.ConfigSystem.Editor.SackranyConfig.Editor
+namespace SackranyConfig.Editor
 {
     public static class ConfigFileGenerator
     {

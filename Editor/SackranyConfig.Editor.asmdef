@@ -1,8 +1,8 @@
 {
-    "name": "Sackrany.Config.Editor",
-    "rootNamespace": "Sackrany.ConfigSystem.Editor",
+    "name": "SackranyConfig.Editor",
+    "rootNamespace": "SackranyConfig.Editor",
     "references": [
-        "Sackrany.Config",
+        "SackranyConfig",
         "Sackrany.Utils"
     ],
     "includePlatforms": [

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Sackrany.ConfigSystem.SackranyConfig
+namespace SackranyConfig
 {
     public interface IConfig { }
     public interface IDynamicConfig : IConfig { }
