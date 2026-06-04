@@ -1,6 +1,6 @@
 {
-    "name": "Sackrany.Config",
-    "rootNamespace": "Sackrany.ConfigSystem",
+    "name": "SackranyConfig",
+    "rootNamespace": "SackranyConfig",
     "references": [
         "Sackrany.Utils"
     ],

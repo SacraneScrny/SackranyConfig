@@ -6,7 +6,7 @@ using Newtonsoft.Json;
 
 using UnityEngine;
 
-namespace Sackrany.ConfigSystem.SackranyConfig
+namespace SackranyConfig
 {
     public static class DynamicConfigLoader
     {

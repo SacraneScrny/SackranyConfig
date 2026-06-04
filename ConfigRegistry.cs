@@ -6,7 +6,7 @@ using Sackrany.Utils.SackranyUtils.CacheRegistry;
 
 using UnityEngine;
 
-namespace Sackrany.ConfigSystem.SackranyConfig
+namespace SackranyConfig
 {
     public static class ConfigRegistry
     {
