@@ -1,0 +1,16 @@
+{
+    "name": "Sackrany.Config",
+    "rootNamespace": "Sackrany.ConfigSystem",
+    "references": [
+        "Sackrany.Utils"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
