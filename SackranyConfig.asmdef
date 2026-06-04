@@ -1,9 +1,7 @@
 {
     "name": "SackranyConfig",
     "rootNamespace": "SackranyConfig",
-    "references": [
-        "Sackrany.Utils"
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
