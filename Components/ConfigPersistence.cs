@@ -4,7 +4,7 @@ namespace SackranyConfig.Components
 {
     public class ConfigPersistence : MonoBehaviour
     {
-        [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.AfterSceneLoad)]
+        [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
         static void Bootstrap()
         {
             var go = new GameObject(nameof(ConfigPersistence));

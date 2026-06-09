@@ -29,7 +29,7 @@ namespace SackranyConfig
             return _nameToType.Values.ToList();
         }
 
-        [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
+        [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSplashScreen)]
         static void LoadAll()
         {
             var allTypes = BuildTypeMap();
